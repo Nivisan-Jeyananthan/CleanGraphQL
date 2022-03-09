@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "pBNCvTRHjYZH61D/N9ZUhi5FpZ8HtidRDkBe45soOfHmk//dp4aaEw1+gMliXDmCi2SwwXaQR8sXMdDLs2BW9g==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Repos\\GraphQL_MediatorTest\\src\\Mediator.Shared\\Mediator.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b251pnj\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.abstractions\\12.6.2\\hotchocolate.abstractions.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.language\\12.6.2\\hotchocolate.language.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.language.syntaxtree\\12.6.2\\hotchocolate.language.syntaxtree.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.language.utf8\\12.6.2\\hotchocolate.language.utf8.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.language.visitors\\12.6.2\\hotchocolate.language.visitors.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.subscriptions\\12.6.2\\hotchocolate.subscriptions.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.types\\12.6.2\\hotchocolate.types.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.utilities\\12.6.2\\hotchocolate.utilities.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\hotchocolate.utilities.introspection\\12.6.2\\hotchocolate.utilities.introspection.12.6.2.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\microsoft.extensions.objectpool\\3.1.4\\microsoft.extensions.objectpool.3.1.4.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\system.text.json\\4.7.0\\system.text.json.4.7.0.nupkg.sha512",
+    "C:\\Users\\b251pnj\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

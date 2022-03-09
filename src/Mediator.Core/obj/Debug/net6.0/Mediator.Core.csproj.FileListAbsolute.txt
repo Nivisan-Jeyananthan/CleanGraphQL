@@ -1,0 +1,12 @@
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\bin\Debug\net6.0\Mediator.Core.deps.json
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\bin\Debug\net6.0\Mediator.Core.dll
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\bin\Debug\net6.0\ref\Mediator.Core.dll
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\bin\Debug\net6.0\Mediator.Core.pdb
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\obj\Debug\net6.0\Mediator.Core.csproj.AssemblyReference.cache
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\obj\Debug\net6.0\Mediator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\obj\Debug\net6.0\Mediator.Core.AssemblyInfoInputs.cache
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\obj\Debug\net6.0\Mediator.Core.AssemblyInfo.cs
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\obj\Debug\net6.0\Mediator.Core.csproj.CoreCompileInputs.cache
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\obj\Debug\net6.0\Mediator.Core.dll
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\obj\Debug\net6.0\ref\Mediator.Core.dll
+C:\Code\Repos\GraphQL_MediatorTest\src\Mediator.Core\obj\Debug\net6.0\Mediator.Core.pdb
