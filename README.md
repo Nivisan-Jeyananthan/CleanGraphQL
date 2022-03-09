@@ -1,12 +1,12 @@
 # CleanGraphQL
 Cleanarchitecture based project with graphql
 
-# Setup
+## Setup
 CLI : Execute "dotnet ef database update" inside the Mediator.Api project.
 
 VS : Open the solution and execute "update-database" inside the package manager console.
 
-# Usage 
+## Usage 
 Open the following path in your browser or in a graphql playground app: 
 https://localhost:7075/graphql 
 
