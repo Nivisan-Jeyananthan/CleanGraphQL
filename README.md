@@ -1,5 +1,7 @@
 # CleanGraphQL
-Cleanarchitecture based project with graphql
+Minimalistic Cleanarchitecture based project with graphql.
+
+Has 1 Get and 1 Create Operation
 
 ## Setup
 CLI : Execute "dotnet ef database update" inside the Mediator.Api project.
