@@ -2,7 +2,7 @@
 Cleanarchitecture based project with graphql
 
 # Setup
-CLI : Execute "dotnet ef update database" inside the Mediator.Api project.
+CLI : Execute "dotnet ef database update" inside the Mediator.Api project.
 
 VS : Open the solution and execute "update-database" inside the package manager console.
 
